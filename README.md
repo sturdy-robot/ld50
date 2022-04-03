@@ -1,2 +1,3 @@
-# ld50
-Game for ludum-dare 50
+# LD50
+
+Game for Ludum Dare 50.
